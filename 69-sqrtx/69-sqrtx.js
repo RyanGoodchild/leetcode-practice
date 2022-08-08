@@ -3,10 +3,7 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    
-    //multiply by itself
-    // check if total is more than x
-            // go back 1 value and return
+
     
     let num = 1;
     let bigNum = 0;
