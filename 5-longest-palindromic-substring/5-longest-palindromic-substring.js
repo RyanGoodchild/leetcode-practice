@@ -40,6 +40,5 @@ var longestPalindrome = function(s) {
         return newPalindrome;
     }
 
-    //return [max, maxL, maxR]; // uncomment this for debugging 
     return returnPalindrome();
 };
